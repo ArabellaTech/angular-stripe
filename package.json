@@ -46,8 +46,12 @@
     "stripe-as-promised": "~2.0.0"
   },
   "files": [
-    "release/*.js",
     "src/*.js",
-    "readme.md",
-  ]
+    "readme.md"
+  ],
+  "standard": {
+    "ignore": [
+      "release/"
+    ]
+  }
 }
