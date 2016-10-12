@@ -48,6 +48,6 @@
   "files": [
     "release/*.js",
     "src/*.js",
-    "readme.md"
+    "readme.md",
   ]
 }
