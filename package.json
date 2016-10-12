@@ -43,14 +43,5 @@
   "dependencies": {
     "angular-assert-q-constructor": "~1.0.1",
     "stripe-as-promised": "~2.0.0"
-  },
-  "files": [
-    "src/*.js",
-    "readme.md"
-  ],
-  "standard": {
-    "ignore": [
-      "release/"
-    ]
   }
 }
